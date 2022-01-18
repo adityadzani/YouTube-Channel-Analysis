@@ -1,0 +1,1 @@
+Ini merupakan proyek sederhana untuk menganalisis channel youtube dari salah satu institusi pendidikan yang merupakan tempat saya bekerja. Langkah yang dilakukan adalah scraping data dari YouTube menggunakan YouTube API, mengambil beberapa variabel kualitatif dan numerik yang bisa dijadikan insight, lalu memvisualisalisasikan insight tersebut agar lebih mudah dipahami.
